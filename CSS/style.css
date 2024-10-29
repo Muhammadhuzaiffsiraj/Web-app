@@ -1,0 +1,34 @@
+*{
+    background-color:#3d2201
+    
+}
+/* simple selector */
+h1{
+    color: aqua;
+    text-align: center;
+    font-size: 50px;
+    background-color: burlywood;
+    border-bottom: solid;
+    border-color: rgb(230, 99, 12);
+}
+p{
+    font-size: larger;
+    color: violet;
+    border-bottom: solid black;
+  
+} 
+/* id selector */
+#para{
+    color: #6abf79;
+    border-bottom: solid black;
+ 
+}
+/* class selector */
+.secpara{
+    color: rgb(10 253 255);
+}
+
+/* grouping selector */
+h2,h3,h4,h5{
+    background-color:rgb(122 144 243);
+}

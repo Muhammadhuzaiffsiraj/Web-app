@@ -1,0 +1,71 @@
+.ex1{
+border:2px solid red;
+outline-color: black;
+outline-width: 3px;
+outline-style: dotted;
+outline-offset: 3px;
+text-align: center;
+margin-bottom: 50px;
+color:#ff0000;
+text-decoration: underline;
+text-transform: uppercase;
+text-indent: 60px;
+letter-spacing: 10px;
+text-shadow: 2px 2px 11px blue;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+
+}
+.ex1:hover{
+    background-color: pink;
+    cursor: pointer;
+}
+.ex2{
+    border: 3px solid yellow;
+    outline: 5px double green;
+    text-align: right;
+    margin-bottom: 50px;
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: #6200ff;
+    text-transform: capitalize;
+    word-spacing: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ex2:hover{
+    background-color: gray;
+    cursor: pointer;
+}
+.ex3{
+    border: 3px solid rgb(255, 255, 255);
+    outline: 6px groove black;
+    text-align-last: center;
+    margin-bottom: 50px;
+    color: #6807ff;
+    text-transform: lowercase;
+    line-height: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.ex3:hover{
+    background-color: #ad85ec;
+    cursor: pointer;
+}
+.ex4{
+    border: 2px solid green;
+    outline: 5px solid black;
+    text-align: justify;
+    margin-bottom: 50px;
+    color: #ff00dd;
+    /* text-decoration: underline; */
+    text-decoration-line: line-through;
+    white-space: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    
+    
+}
+.ex4:hover{
+    background-color: #e99edf;
+    cursor: pointer;
+}
